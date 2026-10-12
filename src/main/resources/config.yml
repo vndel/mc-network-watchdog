@@ -1,0 +1,5 @@
+sampling:
+  interval-ticks: 100
+  warning-mspt: 40.0
+  critical-mspt: 48.0
+  sustained-samples: 3

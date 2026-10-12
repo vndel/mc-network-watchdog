@@ -1,0 +1,5 @@
+name: NetworkWatchdog
+version: '${project.version}'
+main: com.fivemcodehub.watchdog.NetworkWatchdog
+api-version: '1.20'
+description: Sustained tick-pressure alerts for Paper networks
